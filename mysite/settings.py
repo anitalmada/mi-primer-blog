@@ -25,7 +25,7 @@ SECRET_KEY = '0-!9&%9xvlx*yiysp4bo=j5=pg@y(y0+&xs8adcgyznxjwb8yw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://anitalmada.pythonanywhere.com']
 
 
 # Application definition
